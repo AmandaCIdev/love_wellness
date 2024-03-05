@@ -1,0 +1,1 @@
+web: gunicorn love_wellness.wsgi
