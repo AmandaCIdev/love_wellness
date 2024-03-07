@@ -11,7 +11,7 @@ class EventList(generic.ListView):
     paginate_by = 6
 
 def event_detail(request, slug):
-    queryset = Event.objects.filter(status=1)
+    queryset = Event.objects.filter(slug=slug)
     event = get_object_or_404(queryset, slug=slug)
     reviews = event.reviews.all().order_by("-created_on")
     review_count = event.reviews.filter(approved=True).count()
