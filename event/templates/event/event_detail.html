@@ -75,10 +75,17 @@
           {% endif %}
           {% if user.is_authenticated and review.author == user %}
           <button class="btn btn-delete"
+<<<<<<< HEAD
           review_id="{{ review.id }}">Delete</button>
 
           <button class="btn btn-edit"
           review_id="{{ review.id }}">Edit</button>
+=======
+          comment_id="{{ review.id }}">Delete</button>
+
+          <button class="btn btn-edit"
+            comment_id="{{ review.id }}">Edit</button>
+>>>>>>> c96785c (register, signin, signout, basic styling, change title and head/logo, connect home and about, js file for reviews, event_detail.html creation, add functions to event views)
           {% endif %}
         </div>
         <!-- Our for loop ends here -->
@@ -133,5 +140,9 @@
 {% endblock content %}
 
 {% block extras %}
+<<<<<<< HEAD
 <script src="{% static 'js/script.js' %}"></script>
+=======
+<script src="{% static 'js/comments.js' %}"></script>
+>>>>>>> c96785c (register, signin, signout, basic styling, change title and head/logo, connect home and about, js file for reviews, event_detail.html creation, add functions to event views)
 {% endblock %}
