@@ -1,3 +1,166 @@
 body {
-    background-color: blue;
+    font-family: Julius Sans One, sans-serif;
+    background-color: #e4e5e8;
+}
+
+.brand {
+    font-family: Julius Sans One, sans-serif;
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #0e0e18;
+}
+
+/* .red-o {
+    color: #E84610;
+}
+
+.thin {
+    font-weight: 300;
+} */
+
+.light-bg {
+    background-color: #fff;
+}
+
+.dark-bg {
+    background-color: #011122;
+}
+
+.main-bg {
+    background-color: #6389d5;
+}
+
+.card {
+    border: none;
+    background-color: transparent;
+}
+
+.image-container {
+    position: relative;
+}
+
+.image-flash {
+    position: absolute;
+    bottom: 5%;
+    min-width: 30%;
+    left: -2px;
+    background-color: #188181;
+}
+
+.scale {
+    width: 100%;
+    height: auto;
+}
+
+.author {
+    color: white;
+    margin: 4px;
+    text-transform: uppercase;
+}
+
+.masthead {
+    margin-top: 10px;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    height: 33vh;
+    width: 100%;
+}
+
+.masthead-text {
+    background-color: #146404;
+    color: rgb(18, 12, 12);
+    position: relative;
+}
+
+.masthead-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.masthead-image:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 90%;
+    height: 100%;
+    width: 150%;
+    background: #2f74be;
+    -webkit-transform: skew(15deg);
+    -moz-transform: skew(15deg);
+    transform: skew(15deg);
+    z-index: 100;
+}
+
+.post-link {
+    text-decoration: none;
+    color: #445261;
+}
+
+.post-link:hover,
+.page-link {
+    color: #0b7bf3;
+}
+
+.post-title {
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.post-subtitle {
+    margin-left: 5%;
+    color: lightgray;
+}
+
+.scale {
+    width: 75%;
+}
+
+.btn-signup,
+.btn-edit {
+    background-color: #188181;
+    color: #fefdfc;
+}
+
+.btn-signup:hover,
+.btn-signup:active {
+    background-color: #fff;
+    color: #23BBBB;
+}
+
+.link {
+    color: #5a55b7;
+    text-decoration: none;
+}
+
+.link:hover,
+.link:active {
+    color: #0b7bf3;
+    text-decoration: underline;
+}
+
+.btn-like {
+    color: #d70a8c;
+    border: none;
+    background: transparent;
+}
+
+.btn-delete {
+    color: #65e143;
+    background: #38b10c;
+}
+
+.btn-like:hover,
+.btn-like:active {
+    color: #06f6de;
+    background: transparent;
+    border: none;
+}
+
+.faded {
+    color: rgb(113, 208, 101);
+}
+
+.approval {
+    color: rgb(207, 229, 13);
 }
