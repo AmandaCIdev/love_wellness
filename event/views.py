@@ -41,7 +41,7 @@ def review_edit(request, slug, review_id):
         """
         if request.method == "POST":
 
-            queryset = Event.objects.filter(status=1)
+            queryset = Event.objects.all()
             event = get_object_or_404(queryset, slug=slug)
             review = get_object_or_404(Reviews, pk=review_id)
             review_form = ReviewsForm(data=request.POST, instance=review)
@@ -62,7 +62,7 @@ def review_delete(request, slug, review_id):
     """
     view to delete review
     """
-    queryset = Event.objects.filter(status=1)
+    queryset = Event.objects.all()
     event = get_object_or_404(queryset, slug=slug)
     review = get_object_or_404(Reviews, pk=review_id)
 
