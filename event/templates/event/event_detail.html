@@ -16,7 +16,7 @@
               <img src="{% static 'images/default.jpg' %}" class="scale"
                 alt="placeholder image">
               {% else %}
-              <img src="{{ event.featured_image.url }}" class="scale"
+              <img src="{{ event.image.url }}" class="scale"
                 alt="{{ event.title }}">
               {% endif %}
             </div>
@@ -48,6 +48,21 @@
       <hr>
     </div>
   </div>
+
+  <!-- Attend button -->
+
+  <br/><br/>
+  <hr>
+  <br/>
+  <form action="{% url 'like_post' event.slug %}" method="POST">
+      {% csrf_token %}
+      <button type="submit" class="btn btn-primary btn-sm">Attend</button> Number Attending: {{likes}}
+  </form>
+
+  <!-- Attend button -->
+
+
+
   <!-- Displaying Comments -->
   <div class="row">
     <div class="col-md-8 card mb-4  mt-3 ">

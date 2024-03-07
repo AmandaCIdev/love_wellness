@@ -5,6 +5,13 @@ from django.http import HttpResponseRedirect
 from .models import Event, Reviews
 from .forms import ReviewsForm
 
+# attends
+def LikeView(request, slug):
+    event = get_object_or_404(Event, slug=slug)
+    event.likes.add(request.user)
+    return HttpResponseRedirect(reverse('event_detail', args=[slug]))
+#attends
+
 class EventList(generic.ListView):
     queryset = Event.objects.all()
     template_name = "event/index.html"
@@ -13,6 +20,7 @@ class EventList(generic.ListView):
 def event_detail(request, slug):
     queryset = Event.objects.filter(slug=slug)
     event = get_object_or_404(queryset, slug=slug)
+    likes = event.likes.count() #
     reviews = event.reviews.all().order_by("-created_on")
     review_count = event.reviews.filter(approved=True).count()
     if request.method == "POST":
@@ -30,7 +38,8 @@ def event_detail(request, slug):
             request,
             "event/event_detail.html",
             {"event": event, "reviews": reviews,
-            "review_count": review_count, "reviews_form": reviews_form,},
+            "review_count": review_count, "reviews_form": reviews_form,
+            "likes": likes,},
             
     )
 

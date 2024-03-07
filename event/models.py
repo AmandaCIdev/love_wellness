@@ -11,6 +11,9 @@ class Event(models.Model):
     image = CloudinaryField('image', blank=True)
     likes = models.ManyToManyField (User, related_name = 'event_post')
 
+    def total_likes(self):
+        return self.likes.count()
+
     class Meta:
         ordering = ["published_on"]
 
