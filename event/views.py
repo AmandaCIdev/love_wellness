@@ -12,10 +12,14 @@ class EventList(generic.ListView):
 
 def event_detail(request, slug):
 <<<<<<< HEAD
+<<<<<<< HEAD
     queryset = Event.objects.filter(slug=slug)
 =======
     queryset = Event.objects.filter(status=1)
 >>>>>>> c96785c (register, signin, signout, basic styling, change title and head/logo, connect home and about, js file for reviews, event_detail.html creation, add functions to event views)
+=======
+    queryset = Event.objects.filter(slug=slug)
+>>>>>>> 0b5bb30 (event appears, review delete now works, event_detail works)
     event = get_object_or_404(queryset, slug=slug)
     reviews = event.reviews.all().order_by("-created_on")
     review_count = event.reviews.filter(approved=True).count()
