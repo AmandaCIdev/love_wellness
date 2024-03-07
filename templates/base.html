@@ -4,33 +4,19 @@
 {% url 'account_login' as login_url %}
 {% url 'account_signup' as signup_url %}
 {% url 'account_logout' as logout_url %}
+{% url 'home' as home_url %}
+{% url 'about' as about_url %}
+{% url 'account_login' as login_url %}
+{% url 'account_signup' as signup_url %}
+{% url 'account_logout' as logout_url %}
 
 <!DOCTYPE html>
 <html class="h-100" lang="en">
 
 <head>
-    <title>Love Wellness</title>
-    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description"
-        content="Love Wellness, crafted by a team of Full Stack Developers, stands as a comprehensive platform dedicated to learner well-being. Focused on delivering top-tier campus events, it promotes user engagement through features allowing comment creation, viewing, editing, and deletion on event pages.">
-    <meta name="keywords"
-        content="Student Wellness, Campus Events, Mental Health, Physical Health, Mindfulness, Stress Relief, Nutrition, Exercise, Self-Care, Community Building, Workshops, Super Brain Yoga, Meditation, Holistic Wellness">
-    <meta name="author" content="Django...">
-
-    <!-- Google Fonts CSS -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap" rel="stylesheet">
-
-    <!-- Font Awesome CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-    <!-- Custom CSS -->
+    <title>Love Wellness</title>
     <link rel="stylesheet" href="{% static 'css/style.css' %}">
 
 </head>
