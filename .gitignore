@@ -8,4 +8,4 @@ node_modules/
 .github/
 cloudinary_python.txt
 db.sqlite3
-stacticfiles/
+stacticfiles/db.sqlite3
