@@ -12,7 +12,7 @@ This project utilises a full-stack framework, incorporating Django, Python, Java
 
 
 
-**[Visit our website](https://amandaci-hackathon-full-stack-c93f844af683.herokuapp.com/)**
+**[Visit our website](https://8000-amandacidev-lovewellnes-rpx3pkiwlem.ws-eu108.gitpod.io/)**
 
 ## Overview
 
