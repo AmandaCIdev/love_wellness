@@ -1,4 +1,16 @@
-# Love Wellness WEBSITE
+ <h1 align="center">Love Wellness</h1>                                      
+
+
+<p align="center">
+<img src="ADD.png" width="600" height="100%">
+</p>
+
+
+
+
+This project utilises a full-stack framework, incorporating Django, Python, JavaScript, HTML, and CSS. Our objective is to develop a responsive website that enables users to perform CRUD operations, as well as post, comment, and interact with events by liking or unliking them. It's important to note that this project has been created solely for educational purposes.
+
+
 
 **[Visit our website](https://amandaci-hackathon-full-stack-c93f844af683.herokuapp.com/)**
 
@@ -20,17 +32,62 @@
 
 ## User Experience (UX)
 
+Applying fundamental UX principles, we initially focused on devising a strategy by identifying the target audience and determining the features that would offer them the most value.
+
+The intended users of "Love Wellness" are students who are part of the campus community.
+
+- A wide range of students on campus, spanning various age groups, with a predominant presence of individuals interested in wellness.
+- Attendees seeking inspiration and guidance in maintaining their physical and mental well-being through campus events.
+- Students enthusiastic about participating in wellness activities and sharing their experiences with peers.
+- Those who are new to wellness practices but are eager to explore and learn from campus event.
+- Students from diverse backgrounds, including those from different academic disciplines and cultural backgrounds.
+- Individuals who prioritise their health and well-being and actively seek opportunities to enhance their overall wellness.
+- Students who are looking for practical strategies and resources to manage stress, improve fitness, and promote mental clarity.
+- Those who enjoy engaging in community events and building connections with like-minded peers through wellness activities on campus.
+-  Tailored for students aiming to enhance their brain power, for academic purposes.
+
+For a learner wellness website, users will be looking for:
+
+- Accessible Event Information: Clear and detailed descriptions of upcoming wellness events, including dates, times, locations, and any requirements or special instructions.
+- Easy Registration Process: Seamless registration or booking process for events, workshops, or classes, allowing users to sign up with minimal effort and providing confirmation of their attendance.
+- Diverse Event Offerings: A variety of wellness events catering to different interests and needs, such as super brain yoga sessions, Qigong meditation workshops, nutrition talks, cross fitness classes, and mental health seminars.
+- Interactive Features: Opportunities for users to engage with the website, such as leaving reviews or ratings for events they've attended, sharing their experiences, or participating in discussions with other attendees.
+- Personalised Recommendations: Suggestions for relevant events based on user preferences, past attendance history, or wellness goals, helping users discover new opportunities to enhance their well-being.
+- Resourceful Content: Access to additional resources like articles, videos, or downloadable materials related to wellness topics, providing valuable information and guidance beyond event participation.
+- Community Support: Integration of social features or forums where users can connect with like-minded individuals, share tips, ask questions, and offer support to one another on their wellness journey.
+- Mobile-Friendly Experience: A responsive and mobile-friendly website design that allows users to browse and book events conveniently from any device, whether they're using a smartphone, tablet, or desktop computer.
+
+
+
+
+
+
+
+
+
+
+
 ### A. User Goals
 1. As a site user, I want to explore various wellness events to stay informed about the latest offerings and activities.
+
 2. As a site user, I need to find information about the dates, times, and locations of wellness events to attend them in person.
+
 3. As a site user, I expect to have easy access to contact details to inquire about participating in or purchasing tickets for wellness events.
+
 4. As a site user, I desire intuitive navigation throughout the website to enhance my user experience and find relevant information effortlessly.
+
 5. As a student user, I want to easily access information about upcoming wellness events on campus, including workshops, seminars, and classes, so that I can participate in activities that promote my physical and mental well-being.
+
 6. As a student user, I want to have the option to book consultations with wellness professionals, such as nutritionists or counselors, directly through the website, to easily access support and guidance for my health concerns.
+
 7. As a student user, I would like to be able to leave reviews and feedback on wellness services and events that I have attended, to share my experiences with others and help improve the offerings on campus.
+
 8. As a student user, I want the website to provide resources and information about maintaining a healthy lifestyle, including articles, videos, and tips, to support my overall well-being during my time at college.
+
 9. As a site user, I expect to find comprehensive information about available wellness services, including descriptions, schedules, and pricing, to make informed decisions about my health and well-being options on campus.
+
 10. As a site user, I hope to discover a variety of wellness resources, such as articles, videos, and podcasts, curated to address various aspects of mental and physical health, supporting my holistic well-being journey as a college student.
+
 
 ### B. Owner of Site Goals
 1. As the owner of the site, I want to integrate social media features to share wellness events and resources on platforms like Instagram and Facebook, enabling students to engage with our content and reach a wider audience.
