@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="ADD.png" width="600" height="100%">
+<img src="static/images/responsiveDevices.png" width="600" height="100%">
 </p>
 
 
