@@ -128,7 +128,15 @@ Benefits for therapy instructors using the site:
 ### Existing Features
 
 1. **Navigation Bar**
-   - The navigation bar has a consistent look and placement on all four pages of the website, supporting easy navigation. It includes a simple logo, home page, menu, and contact links and is responsive on multiple screen sizes.
+   - The navigation bar appears on every page so users can easily navigate through the site
+   - Navigation bar has links for 'Home', 'About' and 'Login/Register' more links will be shown to logged in users
+   - If the user is logged in then the left side of the menu shows links for pages that only authorized users can visit 
+   - The user name will also appear on the bar, indicating which user is logged in
+   - The navbar is fully responsive, collapsing into a hamburger menu for medium and small screen size
+
+   <p align="center">
+<img src="/images-features/navbar.png" width="100%" height="100%">
+</p>
 
 2. **Landing Page Image - wellness**
    - The landing area includes a photograph and text below that clearly identify the purpose of the business and the type of product and service it offers. 
@@ -136,11 +144,15 @@ Benefits for therapy instructors using the site:
 3. **Footer**
    - The footer is featured on all four pages and contains two sections: social media links and website creators.
 
+   <p align="center">
+<img src="/images-features/static/images/Footer.png" width="100%" height="100%">
+</p>
+
 4. **Home Page - ‘Home’**
-   - A curated collection of high-quality images categorized by seasons.
+   - A curated collection of high-quality images categorized by events.
 
 5. **About Page - ‘About’**
-   - Information on how to get in touch, inquire about commissions, or purchase prints. Contact form for convenient communication.
+   - Information on how to get in touch. Contact form for convenient communication.
 
 6. **Register Page - ‘Register’**
    - The register page allows users to create a new account by providing necessary information such as username, email, password, and optional profile details.
