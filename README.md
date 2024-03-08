@@ -144,9 +144,9 @@ Benefits for therapy instructors using the site:
 3. **Footer**
    - The footer is featured on all four pages and contains two sections: social media links and website creators.
 
-   <p align="center">
-<img src="/images-features/static/images/Footer.png" width="100%" height="100%">
-</p>
+  <p align="center">
+  <img src="/static/images/Footer.png" width="100%" height="100%">
+</p> 
 
 4. **Home Page - ‘Home’**
    - A curated collection of high-quality images categorized by events.
