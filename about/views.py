@@ -22,7 +22,8 @@ def about_site(request):
     return render(
         request,
         "about/about.html",
-        {'about': about, "SubmitDetailsForm": SubmitDetailsForm},
+        {'about': about, "submit_details_form": submit_details_form},
+
     )
 
 
