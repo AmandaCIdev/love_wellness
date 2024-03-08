@@ -36,6 +36,8 @@ Applying fundamental UX principles, we initially focused on devising a strategy 
 
 The intended users of "Love Wellness" are students who are part of the campus community.
 
+The target audience for 'Love Wellness' are:
+
 - A wide range of students on campus, spanning various age groups, with a predominant presence of individuals interested in wellness.
 - Attendees seeking inspiration and guidance in maintaining their physical and mental well-being through campus events.
 - Students enthusiastic about participating in wellness activities and sharing their experiences with peers.
@@ -56,6 +58,17 @@ For a learner wellness website, users will be looking for:
 - Resourceful Content: Access to additional resources like articles, videos, or downloadable materials related to wellness topics, providing valuable information and guidance beyond event participation.
 - Community Support: Integration of social features or forums where users can connect with like-minded individuals, share tips, ask questions, and offer support to one another on their wellness journey.
 - Mobile-Friendly Experience: A responsive and mobile-friendly website design that allows users to browse and book events conveniently from any device, whether they're using a smartphone, tablet, or desktop computer.
+
+Benefits for therapy instructors using the site:
+
+- Expanded reach: By listing their therapy sessions on the platform, instructors can extend their reach to a wider audience of potential clients, increasing their visibility and accessibility.
+- Streamlined scheduling: The platform provides tools for instructors to manage their therapy sessions, including scheduling appointments, sending reminders, and tracking client progress.
+- Client engagement: Instructors can engage with clients through the platform, facilitating communication, sharing resources, and providing support between sessions.
+- Feedback loop: The platform allows instructors to collect feedback from clients, enabling them to assess client satisfaction, address concerns, and improve their services.
+- Professional networking: Instructors have the opportunity to network with other therapy professionals, exchange insights, and collaborate on client referrals or joint sessions.
+- Marketing platform: The site serves as a marketing platform for instructors to showcase their expertise, specialties, and testimonials, attracting new clients and building credibility.
+- Flexibility in service delivery: Instructors can customize their therapy offerings, such as individual sessions, group workshops, or online consultations, to accommodate different client needs and preferences.
+- Continuing education: The platform may offer resources, training modules, or peer support groups for instructors to enhance their skills, stay updated on industry trends, and maintain professional development.
 
 
 
