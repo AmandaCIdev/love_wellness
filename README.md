@@ -135,7 +135,7 @@ Benefits for therapy instructors using the site:
    - The navbar is fully responsive, collapsing into a hamburger menu for medium and small screen size
 
    <p align="center">
-<img src="/images-features/navbar.png" width="100%" height="100%">
+<img src="static/images/Navbar.png" width="100%" height="100%">
 </p>
 
 2. **Landing Page Image - wellness**
@@ -145,7 +145,7 @@ Benefits for therapy instructors using the site:
    - The footer is featured on all four pages and contains two sections: social media links and website creators.
 
   <p align="center">
-  <img src="/static/images/Footer.png" width="100%" height="100%">
+  <img src="static/images/Footer.png" width="100%" height="100%">
 </p> 
 
 4. **Home Page - ‘Home’**
