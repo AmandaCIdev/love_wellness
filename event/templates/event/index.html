@@ -15,7 +15,7 @@
                                 {% if "placeholder" in event.featured_image.url %}
                                     <img class="card-img-top" src="{% static 'images/default.jpg' %}" alt="placeholder image">
                                 {% else %}
-                                    <img class="card-img-top" src=" {{ event.featured_image.url }}" alt="{{ event.title }}">
+                                    <img class="card-img-top" src=" {{ event.image.url }}" alt="{{ event.title }}">
                                 {% endif %}
                                 <div class="image-flash">
                                     <p class="author">Author: {{ event.author }}</p>
