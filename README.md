@@ -252,7 +252,7 @@ Prior to initiating any model migrations to my database, I devised an entity rel
 The entity relationship diagrams were created using [![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?logo=lucidchart&logoColor=white)](https://lucid.app)
 
 <p align="center">
-  <img src="static/images/Database ER diagram (crow&apos;s foot) (7) (1).jpeg" width="100%" height="100%">
+  <img src="static/images/Database ER diagram (crow&apos;s foot) (7) (1).jpeg" width="75%" height="75%">
   </p>
 
 
