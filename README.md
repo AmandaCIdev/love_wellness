@@ -130,26 +130,60 @@ Benefits for therapy instructors using the site:
 </p>
 
 2. **Landing Page Image - wellness**
-   - The landing area includes a photograph and text below that clearly identify the purpose of the business and the type of product and service it offers. 
+   The landing area includes event images and text, view details button below that clearly identify the purpose of the business and the type of product and service it offers:
+
+   <p align="center">
+<img src="static/images/home.png" width="100%" height="100%">
+</p>
 
 3. **Footer**
-   - The footer is featured on all four pages and contains two sections: social media links and website creators.
+   The footer is featured on all four pages and contains two sections: social media links and website creators:
 
   <p align="center">
   <img src="static/images/Footer.png" width="100%" height="100%">
-</p> 
+  </p> 
 
-4. **Home Page - ‘Home’**
-   - A curated collection of high-quality images categorized by events.
+4. **View Details & Attend Page - ‘Home’**
+   A curated collection of high-quality images categorized by events:
 
-5. **About Page - ‘About’**
-   - Information on how to get in touch. Contact form for convenient communication.
+   <p align="center">
+  <img src="static/images/view details & attend.png" width="100%" height="100%">
+  </p>
 
-6. **Register Page - ‘Register’**
+5. **CRUD-Review - ‘Home’**
+   A curated collection of high-quality images categorized by events:
+
+   <p align="center">
+  <img src="static/images/CRUD-review.png" width="100%" height="100%">
+  </p>
+
+6. **About Page - ‘About’**
+   About instructors. Information on how to get in touch and contact form for convenient communication:
+
+   <p align="center">
+  <img src="static/images/about.png" width="100%" height="100%">
+  </p> 
+
+  Contact form:
+
+  <p align="center">
+  <img src="static/images/advertise  services.png" width="100%" height="100%">
+  </p> 
+
+7. **Register Page - ‘Register’**
    - The register page allows users to create a new account by providing necessary information such as username, email, password, and optional profile details.
 
-7. **Login - ‘Login’**
+   <p align="center">
+  <img src="static/images/register.png" width="100%" height="100%">
+  </p>
+
+8. **Login - ‘Login’**
    - Include username and password fields, a remember me option, error handling for incorrect credentials, a login button, links for forgot password and registration, security measures like CAPTCHA or two-factor authentication.
+
+   <p align="center">
+  <img src="static/images/login.png" width="100%" height="100%">
+  </p>
+
 
 ## Design
 
