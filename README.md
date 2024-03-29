@@ -143,18 +143,20 @@ Benefits for therapy instructors using the site:
   <img src="static/images/Footer.png" width="100%" height="100%">
   </p> 
 
-4. **View Details & Attend Page - ‘Home’**
-   A curated collection of high-quality images categorized by events:
-
+4. **View Details & Attend Page - ‘via Home’**
+   
    <p align="center">
   <img src="static/images/view details & attend.png" width="100%" height="100%">
   </p>
 
-5. **CRUD-Review - ‘Home’**
-   A curated collection of high-quality images categorized by events:
-
+5. **CRUD-Review - ‘via Home’**
+   CRUD operations, including like or unlike events:
    <p align="center">
   <img src="static/images/CRUD-review.png" width="100%" height="100%">
+  </p>
+
+  <p align="center">
+  <img src="static/images/likes count.png" width="100%" height="100%">
   </p>
 
 6. **About Page - ‘About’**
