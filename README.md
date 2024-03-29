@@ -114,6 +114,22 @@ Benefits for therapy instructors using the site:
 
 10. As a site owner, I seek to establish partnerships with local wellness practitioners, therapists, and vendors to expand the range of services and resources available to students on our platform, enriching the overall wellness experience and promoting collaboration within the campus community.
 
+<p align="center">
+<img src="static/images/kanBan.png" width="75%" height="75%">
+</p>
+
+### MoSCoW Prioritisation
+
+We broke down user stories before prioritising and implementing them.
+By following this method, we applied MoSCoW prioritisation and labels to our user stories within the Issues tab.
+
+- **Must Have**: guaranteed to be delivered (*max 60% of stories*)
+- **Should Have**: adds significant value, but not vital (*the rest ~20% of stories*)
+- **Could Have**: has small impact if left out (*20% of stories*)
+- **Won't Have**: not a priority for this iteration
+
+
+
 ## Features
 
 ### Existing Features
@@ -240,7 +256,7 @@ About & Contact Page Wireframes:
   <img src="static/images/about-love wellness.png" width="100%" height="100%">
   </p>
 
-Devices Wireframes:
+Devices Wireframes: ***TO ADD***
 
 <p align="center">
   <img src="static/images" width="100%" height="100%">
