@@ -166,26 +166,58 @@ Benefits for therapy instructors using the site:
   <img src="static/images/about.png" width="100%" height="100%">
   </p> 
 
-  Contact form:
+   Contact form:
 
   <p align="center">
   <img src="static/images/advertise  services.png" width="100%" height="100%">
   </p> 
 
 7. **Register Page - ‘Register’**
-   - The register page allows users to create a new account by providing necessary information such as username, email, password, and optional profile details.
+   The register page allows users to create a new account by providing necessary information such as username, email, password, and optional profile details:
 
    <p align="center">
   <img src="static/images/register.png" width="100%" height="100%">
   </p>
 
 8. **Login - ‘Login’**
-   - Include username and password fields, a remember me option, error handling for incorrect credentials, a login button, links for forgot password and registration, security measures like CAPTCHA or two-factor authentication.
+   Include username and password fields, a remember me option, error handling for incorrect credentials, a login button, links for forgot password and registration, security measures like CAPTCHA or two-factor authentication:
 
    <p align="center">
   <img src="static/images/login.png" width="100%" height="100%">
   </p>
 
+9. **Mobile - 'Responsive'**
+
+   <p align="center">
+   <img src="static/images/mobile.png" width="100%" height="100%">
+   </p>
+
+ 10. **Mobile - 'Navigation Bar'**
+
+   <p align="center">
+   <img src="static/images/mobile nav.png" width="100%" height="100%">
+   </p>
+
+ 11. **Back End - 'Admin Panel'**
+
+   <p align="center">
+   <img src="static/images/back end-admin.png" width="100%" height="100%">
+   </p>
+   <p align="center">
+   <img src="static/images/admin 1.png" width="100%" height="100%">
+   </p>
+   <p align="center">
+   <img src="static/images/admin 2.png" width="100%" height="100%">
+   </p>
+   <p align="center">
+   <img src="static/images/admin 3.png" width="100%" height="100%">
+   </p>
+   <p align="center">
+   <img src="static/images/admin 4.png" width="100%" height="100%">
+   </p>
+   <p align="center">
+   <img src="static/images/admin 5.png" width="100%" height="100%">
+   </p>
 
 ## Design
 
@@ -211,7 +243,7 @@ About & Contact Page Wireframes:
 Devices Wireframes:
 
 <p align="center">
-  <img src="static/images/about-love wellness.png" width="100%" height="100%">
+  <img src="static/images" width="100%" height="100%">
   </p>
 
 # Database schema
