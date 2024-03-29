@@ -115,7 +115,7 @@ Benefits for therapy instructors using the site:
 10. As a site owner, I seek to establish partnerships with local wellness practitioners, therapists, and vendors to expand the range of services and resources available to students on our platform, enriching the overall wellness experience and promoting collaboration within the campus community.
 
 <p align="center">
-<img src="static/images/kanBan.png" width="75%" height="75%">
+<img src="static/images/kanBan.png" width="100%" height="100%">
 </p>
 
 ### MoSCoW Prioritisation
