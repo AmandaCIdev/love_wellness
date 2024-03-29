@@ -281,7 +281,6 @@ The entity relationship diagrams were created using [![Lucidchart](https://img.s
 </p>
 
 
-
 ## Technologies Used
 
 
@@ -366,16 +365,36 @@ The entity relationship diagrams were created using [![Lucidchart](https://img.s
 - whitenoise==5.3.0  
 
 
-## Testing
+## Testing ***TO ADD BELOW***
 
 ### Validator Testing
+* [Lighthouse](#lighthouse)
+* [HTML](#html)
+* [CSS](#css)
+* [JSHINT](#jshint)
+* [CI Python Linter](#cipythonlinter)
 
-#### HTML Validator
+# Lighthouse 
+
+Desktop
+
+<p align="center">
+<img src="assets/images" width="800" height="100%">
+</p>
+
+Mobile
+
+<p align="center">
+<img src="assets/images" width="800" height="100%">
+</p>
+
+
+# HTML Validator
 - [Results for index.html](#)
 - [Results for gallery.html](#)
 - [Results for contact.html](#)
 
-#### CSS Validator
+# CSS Validator
 - [Results for styles.css](#)
 
 #### Browser Compatibility
@@ -383,8 +402,6 @@ The entity relationship diagrams were created using [![Lucidchart](https://img.s
 - Firefox Version 88.0.1
 - Safari on macOS Catalina (Safari Version 14.0.3)
 
-### Test Cases and Results
-- [Test Cases](#)
 
 ### Unfixed Bugs
 - Correction to add: 
