@@ -189,13 +189,13 @@ Benefits for therapy instructors using the site:
 9. **Mobile - 'Responsive'**
 
    <p align="center">
-   <img src="static/images/mobile.png" width="100%" height="100%">
+   <img src="static/images/mobile.png" width="50%" height="50%">
    </p>
 
  10. **Mobile - 'Navigation Bar'**
 
    <p align="center">
-   <img src="static/images/mobile nav.png" width="100%" height="100%">
+   <img src="static/images/mobile nav.png" width="50%" height="50%">
    </p>
 
  11. **Back End - 'Admin Panel'**
