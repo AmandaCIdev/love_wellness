@@ -255,6 +255,32 @@ The entity relationship diagrams were created using [![Lucidchart](https://img.s
   <img src="static/images/Database ER diagram (crow&apos;s foot) (7) (1).jpeg" width="75%" height="75%">
   </p>
 
+## Models
+### **Event Model**
+
+<p align="center">
+<img src="static/images/eventModel.png" width="900" height="100%">
+</p>
+
+### **Reviews Model**
+
+<p align="center">
+<img src="static/images/reviewModel.png" width="900" height="100%">
+</p>
+
+### **About Model**
+
+<p align="center">
+<img src="static/images/aboutModel.png" width="900" height="100%">
+</p>
+
+### **SubmitDetails Model**
+
+<p align="center">
+<img src="static/images/submitDetailsModel.png" width="900" height="100%">
+</p>
+
+
 
 ## Technologies Used
 
