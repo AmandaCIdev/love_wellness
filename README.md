@@ -71,15 +71,6 @@ Benefits for therapy instructors using the site:
 - Continuing education: The platform may offer resources, training modules, or peer support groups for instructors to enhance their skills, stay updated on industry trends, and maintain professional development.
 
 
-
-
-
-
-
-
-
-
-
 ### A. User Goals
 1. As a site user, I want to explore various wellness events to stay informed about the latest offerings and activities.
 
@@ -169,31 +160,100 @@ Benefits for therapy instructors using the site:
 - Google Fonts were used to import the Julius font into styles.css. Chosen for it's simple, unembellished, minimalistic feel that is easy to read.
 
 ### Wireframes
-- [Main Page Wireframes](#) 
-- [Gallery Page Wireframes](#) 
+- [Home Page Wireframes](#) 
+- [About Page Wireframes](#) 
 - [Contact Page Wireframes](#)
+
+# Database schema
+Prior to initiating any model migrations to my database, I devised an entity relationship diagram to visualise the connections between the models.
+
+The entity relationship diagrams were created using [![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?logo=lucidchart&logoColor=white)](https://lucid.app)
+
+
 
 ## Technologies Used
 
-### Languages Used
-- HTML
-- CSS
-- JavaScript
-- Python
 
-### Frameworks, Libraries & Programs Used
-- Google Fonts
-- Font Awesome
-- Git
-- GitHub
-- Balsamiq
-- Adobe Stock
-- Quora
-- Google
-- Django
-- Bootstrap
-- Heroku
-- ElephantSQL
+### Languages Used
+- [![HTML](https://img.shields.io/badge/HTML-grey?logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML)
+- [![CSS](https://img.shields.io/badge/CSS-grey?logo=css3&logoColor=1572B6)](https://en.wikipedia.org/wiki/CSS)
+- [![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
+- [![Python](https://img.shields.io/badge/Python-grey?logo=python&logoColor=3776AB)](https://www.python.org)
+
+ ## Frameworks, Libraries & Programs Used
+
+- [![Git](https://img.shields.io/badge/GitHub-grey?logo=github&logoColor=181717)](https://github.com)- GitHub is a web-based platform for version control using Git, enabling collaborative software development and hosting of code repositories. GitHub connects to GitPod and Heroku. The team used it for secure online code storage.
+
+- [![Gitpod](https://img.shields.io/badge/Gitpod-grey?logo=gitpod&logoColor=FFAE33)](https://gitpod.io) – Connected to GitHub, GitPod hosted the coding space, allowing the project to be built and then committed to the GitHub repository. The team used it for version control. (`git add`, `git commit`, `git push`)
+
+- [![Heroku](https://img.shields.io/badge/Heroku-grey?logo=heroku&logoColor=430098)](https://www.heroku.com) - Connected to the GitHub repository, Heroku is a cloud application platform used to deploy this project so the backend language can be utilised/tested. The team used it forhosting the deployed back-end site.
+
+- [![Django](https://img.shields.io/badge/Django-grey?logo=django&logoColor=092E20)](https://www.djangoproject.com) - Django is a high-level web framework for building web applications rapidly with a clean and pragmatic design. The team used it as the Python framework for the site.
+
+- [![ElephantSQL](https://img.shields.io/badge/ElephantSQL-grey?logo=postgresql&logoColor=36A6E2)](https://www.elephantsql.com) - ElephantSQL is a hosted PostgreSQL database service that can be seamlessly integrated with Django applications, providing scalable and reliable database solutions. The team used it as the Postgres database.
+
+- [![Gunicorn](https://img.shields.io/badge/Gunicorn-blue?logo=gunicorn&logoColor=white)](https://gunicorn.org/) - Gunicorn is a pure-Python HTTP server for WSGI applications. Followed Code Institute instructions to install.
+
+- [![Dj Database URL](https://img.shields.io/badge/Dj_Database_URL-green?logo=python&logoColor=white)](https://pypi.org/project/dj-database-url/) - This allows you to utilise the 12factor inspired DATABASE_URL environment variable to configure your Django application. Followed Code Institute instructions to install.
+
+- [![Bootstrap](https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap&logoColor=7952B3)](https://getbootstrap.com) - Bootstrap is a front-end framework for developing responsive and mobile-first websites quickly and efficiently. The team used it to utilised for modern responsiveness and pre-built components.
+
+- [![Cloudinary](https://img.shields.io/badge/Cloudinary-purple?logo=cloudinary&logoColor=white)](https://cloudinary.com)- Cloudinary is a cloud-based media management platform that offers solutions for storing, optimising, and delivering images and videos for web and mobile applications. Followed Code Institute instructions to install.
+
+- [![Summernote](https://img.shields.io/badge/Summernote-orange?logo=summernote&logoColor=white)](https://summernote.org/) - Summernote is a Django app that enables users to easily integrate a rich text editor into their web applications, enhancing event creation and description functionality. Followed Code Institute instructions to install.
+
+- [![DALL-E3](https://img.shields.io/badge/DALL--E3-yellow?logo=openai&logoColor=white)](https://openai.com/) - DALL-E3 is an advanced AI model developed by OpenAI that generates images from textual descriptions. The team used it for the images created using text.
+
+- [![TinyPNG](https://img.shields.io/badge/TinyPNG-grey?logo=tinypng&logoColor=CE0908)](https://tinypng.com/) - TinyPNG is a website that offers image compression services to optimise image files for faster loading on webpages while maintaining visual quality. The team used it to compress the images.
+
+- [![Google Fonts](https://img.shields.io/badge/Google_Fonts-blue?logo=google-fonts&logoColor=white)](https://fonts.google.com/) - Google Fonts is a collection of free, open-source fonts that can be easily integrated into websites and other digital projects to enhance typography. Imported for fonts.
+
+- [![Font Awesome](https://img.shields.io/badge/Font_Awesome-darkblue?logo=font-awesome&logoColor=white)](https://fontawesome.com/) - Font Awesome is a library of scalable vector icons that can be easily customised and used to enhance the visual appeal of websites and applications. Imported to base.html.
+
+- [![Beautify](https://img.shields.io/badge/Beautify-green?logo=beautify&logoColor=white)](https://www.jpkc.com/tools/beautify/) - Beautify is a code formatter tool that automatically formats code to improve readability and consistency. Used in Gitpod to help color code and spot errors.
+
+- [![Balsamiq](https://img.shields.io/badge/Balsamiq-grey?logo=barmenia&logoColor=CE0908)](https://balsamiq.com/wireframes) - Balsamiq is a wireframing tool used for creating low-fidelity mockups of user interfaces, allowing for quick and easy visualisation of design ideas. used for our wireframes.
+
+- [![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?logo=lucidchart&logoColor=white)](https://lucid.app) - Lucidchart is a web-based diagramming tool that allows users to create and collaborate on flowcharts, ERDs, and other visual representations of data and processes. Made an ERD flow chart to provide a visual starting point for database design and help determine information system requirements throughout our collaboration.
+
+- [![Am I Responsive](https://img.shields.io/badge/Am_I_Responsive-blue?logoColor=white)](http://ami.responsivedesign.is/) - Am I Responsive is a web tool that allows users to quickly preview how their website appears on various devices and screen sises, helping to ensure responsiveness and compatibility across platforms. Put my heroku url to check responsivity to all devices.
+
+- [![Diffchecker](https://img.shields.io/badge/Diffchecker-grey?logo=diffchecker&logoColor=white)](https://www.diffchecker.com/text-compare/) - Diffchecker is a text comparison tool used to highlight the differences between two blocks of text, facilitating comparison and analysis. Update code against old code for validation.
+
+- [![W3C CSS Validator](https://img.shields.io/badge/W3C_CSS_Validator-grey?logo=css3&logoColor=white)](https://jigsaw.w3.org/css-validator/) - The W3C CSS Validator is a tool used to check the validity and syntax of CSS code, ensuring compliance with web standards set by the World Wide Web Consortium (W3C). Import our CSS for validation.
+
+- [![W3C Markup Validator](https://img.shields.io/badge/W3C_Markup_Validator-grey?logo=html5&logoColor=white)](https://validator.w3.org/#validate_by_input) - The W3C Markup Validator is a tool used to check the validity and syntax of HTML code, ensuring compliance with web standards set by the World Wide Web Consortium (W3C). Import our HTML for validation.
+
+- [![JSHint](https://img.shields.io/badge/JSHint-grey?logo=jshint&logoColor=yellow)](https://jshint.com/) - JSHint is a static code analysis tool used for checking JavaScript code for errors, potential problems, and stylistic inconsistencies. Import our JS code for validation.
+
+- [![Pep8ci](https://img.shields.io/badge/Pep8ci-grey?logo=heroku&logoColor=purple)](https://pep8ci.herokuapp.com/)- Pep8ci provides Python developers with a tool to check their code against the PEP 8 style guide for adherence to coding standards. Import our Python code for validation.
+
+- [![Lighthouse](https://img.shields.io/badge/Lighthouse-grey?logo=google-chrome&logoColor=red)](https://developer.chrome.com/docs/lighthouse)- an open-source tool used for auditing web page quality, including performance, accessibility, SEO, and cross-browser testing. Check for validation.
+
+- [![Code Institute](https://img.shields.io/badge/Code_Institute-grey?logo=codepen&logoColor=black)](https://codeinstitute.net/) - The events page on our site drew inspiration from the "I think therefore I blog" walkthrough project by Code Institute. Throughout the past 16 weeks, our participation in the Full Stack skills boot camp has equipped me with the essential skills needed to develop this website.
+
+*Below, you'll find a comprehensive list of project requirements and their respective versions. Some installed packages were not utilised but were installed as per the instructions provided by Code Institute. This influenced our decision to document the process in the 'I think therefore I blog' walkthrough project.*
+
+
+- asgiref==3.7.2  
+- cloudinary==1.36.0  
+- crispy-bootstrap5==0.7  
+- dj-database-url==0.5.0  
+- dj3-cloudinary-storage==0.0.6  
+- Django==4.2.11  
+- django-allauth==0.57.2  
+- django-bootstrap-v5==1.0.11  
+- django-crispy-forms==2.1  
+- django-summernote==0.8.20.0  
+- gunicorn==20.1.0  
+- oauthlib==3.2.2  
+- psycopg2==2.9.9  
+- PyJWT==2.8.0  
+- python3-openid==3.2.0  
+- requests-oauthlib==1.4.0  
+- sqlparse==0.4.4  
+- whitenoise==5.3.0  
+
 
 ## Testing
 
@@ -217,7 +277,7 @@ Benefits for therapy instructors using the site:
 
 ### Unfixed Bugs
 - Correction to add: 
-- A 
+ 
 
 ### Known Bugs
 1. 
@@ -241,7 +301,7 @@ Benefits for therapy instructors using the site:
 ## Credits
 
 ### Content
-- All other content was written by the developer.
+- All content was written by the developers.
 
 ### Media
 - The icons in the footer were taken from Font Awesome.
@@ -250,3 +310,18 @@ Benefits for therapy instructors using the site:
 
 ### Acknowledgments
 - To be added.
+
+## Full Stack Developer Team
+
++ Team Lead: Amanda Mascurine
+  - https://github.com/AmandaCIdev
+
++ Carl Sparks
+  - https://github.com/Sparkeeee
+
++ Gray Adamson
+  - https://github.com/GrayAdamsonWelsh
+
++ Ifzal Malook
+  - https://github.com/ifzalmalook
+
