@@ -196,24 +196,32 @@ Benefits for therapy instructors using the site:
 - Google Fonts were used to import the Julius font into styles.css. Chosen for it's simple, unembellished, minimalistic feel that is easy to read.
 
 ### Wireframes
-- Home Page Wireframes:
+Home Page Wireframes:
 
  <p align="center">
   <img src="static/images/home-love wellness.png" width="100%" height="100%">
   </p>
 
-- About & Contact Page Wireframes:
+About & Contact Page Wireframes:
 
  <p align="center">
   <img src="static/images/about-love wellness.png" width="100%" height="100%">
   </p>
 
+Devices Wireframes:
+
+<p align="center">
+  <img src="static/images/about-love wellness.png" width="100%" height="100%">
+  </p>
 
 # Database schema
 Prior to initiating any model migrations to my database, I devised an entity relationship diagram to visualise the connections between the models.
 
 The entity relationship diagrams were created using [![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?logo=lucidchart&logoColor=white)](https://lucid.app)
 
+<p align="center">
+  <img src="static/images/Database ER diagram (crow&apos;s foot) (7) (1).jpeg" width="100%" height="100%">
+  </p>
 
 
 ## Technologies Used
