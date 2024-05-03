@@ -8,7 +8,7 @@
 
 
 
-This project utilises a full-stack framework, incorporating Django, Python, JavaScript, HTML, and CSS. Our objective is to develop a responsive website that enables users to perform CRUD operations, as well as post, comment, and interact with events by liking or unliking them. It's important to note that this project has been created solely for educational purposes.
+This project utilises a full-stack framework, incorporating PostgreSQL, Django, Python, JavaScript, HTML, and CSS. Our objective is to develop a responsive website that enables users to perform CRUD operations, as well as post, comment, and interact with events by liking or unliking them. It's important to note that this project has been created solely for educational purposes.
 
 
 
