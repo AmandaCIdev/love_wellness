@@ -36,7 +36,7 @@ Applying fundamental UX principles, we initially focused on devising a strategy 
 
 The intended users of "Love Wellness" are students who are part of the campus community.
 
-The target audience for 'Love Wellness' are:
+The target audience for 'Love Wellness':
 
 - A wide range of students on campus, spanning various age groups, with a predominant presence of individuals interested in wellness.
 - Attendees seeking inspiration and guidance in maintaining their physical and mental well-being through campus events.
