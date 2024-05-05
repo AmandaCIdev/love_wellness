@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="static/images/responsiveDevices1.png" width="600" height="100%">
+<img src="static/images/responsiveDevices8.png" width="600" height="100%">
 </p>
 
 
