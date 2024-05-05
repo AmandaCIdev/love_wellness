@@ -12,7 +12,7 @@ This project utilises a full-stack framework, incorporating PostgreSQL, Django, 
 
 
 
-**[Visit our website](https://amandaci-hackathon-full-stack-c93f844af683.herokuapp.com/)**
+**[Visit Our Website](https://amandaci-hackathon-full-stack-c93f844af683.herokuapp.com/)**
 
 ## Overview
 
