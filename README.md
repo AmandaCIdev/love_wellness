@@ -149,7 +149,7 @@ By following this method, we applied MoSCoW prioritisation and labels to our use
    The landing area includes event images and text, view details button below that clearly identify the purpose of the business and the type of product and service it offers:
 
    <p align="center">
-<img src="static/images/home.png" width="100%" height="100%">
+<img src="static/images/home8.png" width="100%" height="100%">
 </p>
 
 3. **Footer**
