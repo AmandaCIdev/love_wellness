@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="static/images/responsiveDevices.png" width="600" height="100%">
+<img src="static/images/responsive.png" width="600" height="100%">
 </p>
 
 
@@ -12,7 +12,7 @@ This project utilises a full-stack framework, incorporating PostgreSQL, Django, 
 
 
 
-**[Visit our website](https://8000-amandacidev-lovewellnes-rpx3pkiwlem.ws-eu108.gitpod.io/)**
+**[Visit our website](https://amandaci-hackathon-full-stack-c93f844af683.herokuapp.com/)**
 
 ## Overview
 
