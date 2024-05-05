@@ -10,7 +10,7 @@
 }
 
 body {
-    font-family: Julius Sans One, sans-serif;
+    font-family: Julius, sans-serif;
     background-color: #e7eaf6;
 }
 
@@ -50,13 +50,13 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: Julius Sans One, sans-serif;
+    font-family: Julius, sans-serif;
     margin: 0;
     text-transform: capitalize;
 }
 
 p {
-    font-family: Julius Sans One, sans-serif;
+    font-family: Julius, sans-serif;
 }
 
 .image-container {
